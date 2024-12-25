@@ -1,4 +1,14 @@
 ## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenphuloc&show_icons=true&theme=radical)
+
+## 🌟 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuloc&layout=compact&theme=radical)
+
+## 🔥 Commit Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=nguyenphuloc&theme=radical)
 
 <!--
 **nguyenphuloc/nguyenphuloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
